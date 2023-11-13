@@ -3,7 +3,7 @@
 Repositório para armazenar o projeto de Formação PowerBI Analyst [Digital Innovation One](https://www.dio.me/)
 
 ## 📘 Documentação
-- [projeto](https://https://github.com/petrascarvalho/desafio_projeto_dio_power_BI)
+- [projeto](https://github.com/petrascarvalho/desafio_projeto_dio_power_BI/commit/5b11c67a6880868cc5011dbc8f55d795b923f63e)
 
 
 ## 💻 Resumo do Projeto
